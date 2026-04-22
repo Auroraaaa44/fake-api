@@ -8,8 +8,14 @@
         },
         {
             "id":2,
-            "nome":"Informática para Internet",
-            "disciplinas":["LP", "Proj de Informática", "Interfaces Web I"],
+            "nome":"Informática",
+            "disciplinas":["Arte digital", "PA", "Interfaces Web I"],
+            "carga-horaria":1200
+        },
+        {
+            "id":3,
+            "nome":"Informática para internet",
+            "disciplinas":["GSO I", "PC", "Proj de Informática"],
             "carga-horaria":1200
         }
     ]
